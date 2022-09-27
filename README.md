@@ -1,2 +1,2 @@
-# algalog-api
+# Algalog-api
 Curso da Algaworks algalog-api
